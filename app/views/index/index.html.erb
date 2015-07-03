@@ -1,0 +1,10 @@
+<p>1. Exported file 2. -full file 3. Run</p>
+
+<div>
+<%= form_tag({action: :uploadfile}, multipart: true) do %>
+  <%= file_field_tag "exported" %><br>
+  <%= file_field_tag "full" %>
+  <br>
+  <p><%= submit_tag "Run" %></p>
+<% end %>
+</div>

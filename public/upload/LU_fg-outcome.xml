@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2015-09-12T21:43:41">
+<LU_fg-outcome>
+<id>1</id>
+<abrev>WL</abrev>
+<description>Wide Left</description>
+<Display_x0020_Order>10</Display_x0020_Order>
+</LU_fg-outcome>
+<LU_fg-outcome>
+<id>2</id>
+<abrev>HL</abrev>
+<description>Hit Left Upright</description>
+<Display_x0020_Order>20</Display_x0020_Order>
+</LU_fg-outcome>
+<LU_fg-outcome>
+<id>3</id>
+<abrev>IL</abrev>
+<description>Inside Left Upright</description>
+<Display_x0020_Order>30</Display_x0020_Order>
+</LU_fg-outcome>
+<LU_fg-outcome>
+<id>4</id>
+<abrev>M</abrev>
+<description>Middle</description>
+<Display_x0020_Order>40</Display_x0020_Order>
+</LU_fg-outcome>
+<LU_fg-outcome>
+<id>5</id>
+<abrev>IR</abrev>
+<description>Inside Right Upright</description>
+<Display_x0020_Order>50</Display_x0020_Order>
+</LU_fg-outcome>
+<LU_fg-outcome>
+<id>6</id>
+<abrev>HR</abrev>
+<description>Hit Right Upright</description>
+<Display_x0020_Order>60</Display_x0020_Order>
+</LU_fg-outcome>
+<LU_fg-outcome>
+<id>7</id>
+<abrev>WR</abrev>
+<description>Wide Right</description>
+<Display_x0020_Order>70</Display_x0020_Order>
+</LU_fg-outcome>
+<LU_fg-outcome>
+<id>8</id>
+<abrev>HC</abrev>
+<description>Hit Crossbar</description>
+<Display_x0020_Order>80</Display_x0020_Order>
+</LU_fg-outcome>
+<LU_fg-outcome>
+<id>9</id>
+<abrev>S</abrev>
+<description>Short</description>
+<Display_x0020_Order>90</Display_x0020_Order>
+</LU_fg-outcome>
+<LU_fg-outcome>
+<id>10</id>
+<abrev>B</abrev>
+<description>Blocked</description>
+<Display_x0020_Order>100</Display_x0020_Order>
+</LU_fg-outcome>
+</dataroot>

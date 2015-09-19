@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2015-09-12T21:43:41">
+<LU_kickoff-type>
+<id>1</id>
+<abrev>D</abrev>
+<description>Deep</description>
+<display_order>100</display_order>
+</LU_kickoff-type>
+<LU_kickoff-type>
+<id>2</id>
+<abrev>P</abrev>
+<description>Pooch</description>
+<display_order>200</display_order>
+</LU_kickoff-type>
+<LU_kickoff-type>
+<id>3</id>
+<abrev>S</abrev>
+<description>Surprise onside</description>
+<display_order>300</display_order>
+</LU_kickoff-type>
+<LU_kickoff-type>
+<id>4</id>
+<abrev>O</abrev>
+<description>Obvious onside</description>
+<display_order>400</display_order>
+</LU_kickoff-type>
+<LU_kickoff-type>
+<id>5</id>
+<abrev>K</abrev>
+<description>Free kick</description>
+<display_order>500</display_order>
+</LU_kickoff-type>
+<LU_kickoff-type>
+<id>6</id>
+<abrev>Q</abrev>
+<description>Squib</description>
+<display_order>600</display_order>
+</LU_kickoff-type>
+<LU_kickoff-type>
+<id>7</id>
+<abrev>F</abrev>
+<description>Flat</description>
+<display_order>700</display_order>
+</LU_kickoff-type>
+<LU_kickoff-type>
+<id>8</id>
+<abrev>B</abrev>
+<description>Deep Direct OOB</description>
+<display_order>800</display_order>
+</LU_kickoff-type>
+</dataroot>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2015-09-12T21:43:44">
+<LU_run-type>
+<id>1</id>
+<order>1</order>
+<type>LE</type>
+</LU_run-type>
+<LU_run-type>
+<id>2</id>
+<order>2</order>
+<type>LT</type>
+</LU_run-type>
+<LU_run-type>
+<id>3</id>
+<order>3</order>
+<type>LG</type>
+</LU_run-type>
+<LU_run-type>
+<id>4</id>
+<order>4</order>
+<type>ML</type>
+</LU_run-type>
+<LU_run-type>
+<id>5</id>
+<order>5</order>
+<type>MR</type>
+</LU_run-type>
+<LU_run-type>
+<id>6</id>
+<order>6</order>
+<type>RG</type>
+</LU_run-type>
+<LU_run-type>
+<id>7</id>
+<order>7</order>
+<type>RT</type>
+</LU_run-type>
+<LU_run-type>
+<id>8</id>
+<order>8</order>
+<type>RE</type>
+</LU_run-type>
+<LU_run-type>
+<id>9</id>
+<order>9</order>
+<type>End Around - Left</type>
+</LU_run-type>
+<LU_run-type>
+<id>10</id>
+<order>11</order>
+<type>End Around - Right</type>
+</LU_run-type>
+<LU_run-type>
+<id>11</id>
+<order>13</order>
+<type>QB Scramble</type>
+</LU_run-type>
+<LU_run-type>
+<id>12</id>
+<order>14</order>
+<type>QB Kneel</type>
+</LU_run-type>
+<LU_run-type>
+<id>13</id>
+<order>10</order>
+<type>Reverse -Left</type>
+</LU_run-type>
+<LU_run-type>
+<id>14</id>
+<order>12</order>
+<type>Reverse - Right</type>
+</LU_run-type>
+<LU_run-type>
+<id>15</id>
+<order>15</order>
+<type>QB Sneak</type>
+</LU_run-type>
+<LU_run-type>
+<id>16</id>
+<order>16</order>
+<type>QB Fumble</type>
+</LU_run-type>
+<LU_run-type>
+<id>17</id>
+<order>17</order>
+<type>Lateral pass - Left</type>
+</LU_run-type>
+<LU_run-type>
+<id>18</id>
+<order>18</order>
+<type>Lateral pass - Right</type>
+</LU_run-type>
+<LU_run-type>
+<id>19</id>
+<order>19</order>
+<type>QB Trip</type>
+</LU_run-type>
+<LU_run-type>
+<id>20</id>
+<order>20</order>
+<type>Jet Sweep Left</type>
+</LU_run-type>
+<LU_run-type>
+<id>21</id>
+<order>21</order>
+<type>Jet Sweep Right</type>
+</LU_run-type>
+</dataroot>

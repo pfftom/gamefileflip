@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2015-09-12T21:43:43">
+<LU_role-type>
+<id>1</id>
+<order>1</order>
+<type>Started</type>
+<abrev>S</abrev>
+</LU_role-type>
+<LU_role-type>
+<id>2</id>
+<order>2</order>
+<type>Played</type>
+<abrev>P</abrev>
+</LU_role-type>
+<LU_role-type>
+<id>3</id>
+<order>3</order>
+<type>Active - Did Not Play</type>
+<abrev>X</abrev>
+</LU_role-type>
+<LU_role-type>
+<id>4</id>
+<order>4</order>
+<type>Not Active</type>
+<abrev>N</abrev>
+</LU_role-type>
+<LU_role-type>
+<id>5</id>
+<order>5</order>
+<type>Reserve</type>
+<abrev>R</abrev>
+</LU_role-type>
+<LU_role-type>
+<id>6</id>
+<order>6</order>
+<type>Injured</type>
+<abrev>I</abrev>
+</LU_role-type>
+</dataroot>

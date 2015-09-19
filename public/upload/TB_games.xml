@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2015-09-12T21:43:46">
+<TB_games>
+<id>1104</id>
+<date>2015-09-12T00:00:00</date>
+<season>2015</season>
+<type>REG</type>
+<is_preseason>0</is_preseason>
+<week>2</week>
+<ateam-id>108</ateam-id>
+<hteam-id>140</hteam-id>
+<gamebook-link>http://www.profootballfocus.com</gamebook-link>
+<nflgsis-gameid>1104</nflgsis-gameid>
+<home-off-play-count>0</home-off-play-count>
+<home-def-play-count>0</home-def-play-count>
+</TB_games>
+</dataroot>

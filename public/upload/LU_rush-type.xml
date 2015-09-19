@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2015-09-12T21:43:44">
+<LU_rush-type>
+<id>1</id>
+<abrev>No Blitz</abrev>
+<type>Usual Rushers</type>
+<total>4</total>
+<blitz>0</blitz>
+<hidden>0</hidden>
+</LU_rush-type>
+<LU_rush-type>
+<id>2</id>
+<abrev>Blitz</abrev>
+<type>Extra Rushers</type>
+<total>5</total>
+<blitz>1</blitz>
+<hidden>0</hidden>
+</LU_rush-type>
+<LU_rush-type>
+<id>3</id>
+<abrev>4+2</abrev>
+<type>4 DL + 2</type>
+<total>6</total>
+<blitz>1</blitz>
+<hidden>1</hidden>
+</LU_rush-type>
+<LU_rush-type>
+<id>4</id>
+<abrev>4+3</abrev>
+<type>4 DL + 3</type>
+<total>7</total>
+<blitz>1</blitz>
+<hidden>1</hidden>
+</LU_rush-type>
+<LU_rush-type>
+<id>5</id>
+<abrev>4+4</abrev>
+<type>4 DL + 4</type>
+<total>8</total>
+<blitz>1</blitz>
+<hidden>1</hidden>
+</LU_rush-type>
+<LU_rush-type>
+<id>6</id>
+<abrev>3</abrev>
+<type>3 DL</type>
+<total>3</total>
+<blitz>0</blitz>
+<hidden>1</hidden>
+</LU_rush-type>
+<LU_rush-type>
+<id>7</id>
+<abrev>3+1</abrev>
+<type>3 DL + 1</type>
+<total>4</total>
+<blitz>0</blitz>
+<hidden>1</hidden>
+</LU_rush-type>
+<LU_rush-type>
+<id>8</id>
+<abrev>3+2</abrev>
+<type>3 DL + 2</type>
+<total>5</total>
+<blitz>1</blitz>
+<hidden>1</hidden>
+</LU_rush-type>
+<LU_rush-type>
+<id>9</id>
+<abrev>3+3</abrev>
+<type>3 DL + 3</type>
+<total>6</total>
+<blitz>1</blitz>
+<hidden>1</hidden>
+</LU_rush-type>
+<LU_rush-type>
+<id>10</id>
+<abrev>3+4</abrev>
+<type>3 DL + 3</type>
+<total>7</total>
+<blitz>1</blitz>
+<hidden>1</hidden>
+</LU_rush-type>
+<LU_rush-type>
+<id>11</id>
+<abrev>3+5</abrev>
+<type>3 DL + 5</type>
+<total>8</total>
+<blitz>1</blitz>
+<hidden>1</hidden>
+</LU_rush-type>
+<LU_rush-type>
+<id>12</id>
+<abrev>2</abrev>
+<type>2 DL</type>
+<total>2</total>
+<blitz>0</blitz>
+<hidden>1</hidden>
+</LU_rush-type>
+<LU_rush-type>
+<id>13</id>
+<abrev>3(-1)</abrev>
+<type>3 DL - 1DL(Coverage)</type>
+<total>3</total>
+<blitz>0</blitz>
+<hidden>1</hidden>
+</LU_rush-type>
+<LU_rush-type>
+<id>14</id>
+<abrev>3(-1)+1</abrev>
+<type>3 DL - 1DL(Coverage)+1</type>
+<total>4</total>
+<blitz>1</blitz>
+<hidden>1</hidden>
+</LU_rush-type>
+<LU_rush-type>
+<id>15</id>
+<abrev>3(-1)+2</abrev>
+<type>3 DL - 1DL(Coverage)+2</type>
+<total>5</total>
+<blitz>1</blitz>
+<hidden>1</hidden>
+</LU_rush-type>
+<LU_rush-type>
+<id>16</id>
+<abrev>3(-1)+3</abrev>
+<type>3 DL - 1DL(Coverage)+3</type>
+<total>6</total>
+<blitz>1</blitz>
+<hidden>1</hidden>
+</LU_rush-type>
+<LU_rush-type>
+<id>17</id>
+<abrev>3(-1)+4</abrev>
+<type>3 DL - 1DL(Coverage)+4</type>
+<total>7</total>
+<blitz>1</blitz>
+<hidden>1</hidden>
+</LU_rush-type>
+<LU_rush-type>
+<id>18</id>
+<abrev>3(-1)+5</abrev>
+<type>3 DL - 1DL(Coverage)+5</type>
+<total>8</total>
+<blitz>1</blitz>
+<hidden>1</hidden>
+</LU_rush-type>
+<LU_rush-type>
+<id>19</id>
+<abrev>2(-1)</abrev>
+<type>2 DL - 1DL(coverage)</type>
+<total>2</total>
+<blitz>0</blitz>
+<hidden>1</hidden>
+</LU_rush-type>
+<LU_rush-type>
+<id>20</id>
+<abrev>2(-1)+1</abrev>
+<type>2 DL - 1DL(coverage)+1</type>
+<total>3</total>
+<blitz>1</blitz>
+<hidden>1</hidden>
+</LU_rush-type>
+<LU_rush-type>
+<id>21</id>
+<abrev>2(-1)+2</abrev>
+<type>2 DL - 1DL(coverage)+2</type>
+<total>4</total>
+<blitz>1</blitz>
+<hidden>1</hidden>
+</LU_rush-type>
+<LU_rush-type>
+<id>22</id>
+<abrev>2(-1)+3</abrev>
+<type>2 DL - 1DL(coverage)+3</type>
+<total>5</total>
+<blitz>1</blitz>
+<hidden>1</hidden>
+</LU_rush-type>
+<LU_rush-type>
+<id>23</id>
+<abrev>2(-1)+4</abrev>
+<type>2 DL - 1DL(coverage)+4</type>
+<total>6</total>
+<blitz>1</blitz>
+<hidden>1</hidden>
+</LU_rush-type>
+<LU_rush-type>
+<id>24</id>
+<abrev>2(-1)+5</abrev>
+<type>2 DL - 1DL(coverage)+5</type>
+<total>7</total>
+<blitz>1</blitz>
+<hidden>1</hidden>
+</LU_rush-type>
+<LU_rush-type>
+<id>25</id>
+<abrev>5</abrev>
+<type>5 DL</type>
+<total>5</total>
+<blitz>0</blitz>
+<hidden>1</hidden>
+</LU_rush-type>
+<LU_rush-type>
+<id>26</id>
+<abrev>6</abrev>
+<type>6 DL</type>
+<total>6</total>
+<blitz>0</blitz>
+<hidden>1</hidden>
+</LU_rush-type>
+<LU_rush-type>
+<id>27</id>
+<abrev>2(-2)</abrev>
+<type>2 DL - 2DL(Coverage)</type>
+<total>2</total>
+<blitz>0</blitz>
+<hidden>1</hidden>
+</LU_rush-type>
+<LU_rush-type>
+<id>28</id>
+<abrev>2(-2)+2</abrev>
+<type>2 DL - 2DL(Coverage)+2</type>
+<total>4</total>
+<blitz>1</blitz>
+<hidden>1</hidden>
+</LU_rush-type>
+<LU_rush-type>
+<id>29</id>
+<abrev>2(-2)+1</abrev>
+<type>2 DL - 2DL(Coverage)+1</type>
+<total>3</total>
+<blitz>0</blitz>
+<hidden>1</hidden>
+</LU_rush-type>
+<LU_rush-type>
+<id>30</id>
+<abrev>5+1</abrev>
+<type>5 DL + 1</type>
+<total>6</total>
+<blitz>1</blitz>
+<hidden>1</hidden>
+</LU_rush-type>
+<LU_rush-type>
+<id>31</id>
+<abrev>2+1</abrev>
+<type>2DL +1</type>
+<total>3</total>
+<blitz>0</blitz>
+<hidden>1</hidden>
+</LU_rush-type>
+<LU_rush-type>
+<id>32</id>
+<abrev>2+2</abrev>
+<type>2DL +2</type>
+<total>4</total>
+<blitz>0</blitz>
+<hidden>1</hidden>
+</LU_rush-type>
+<LU_rush-type>
+<id>33</id>
+<abrev>6+1</abrev>
+<type>6 DL +1</type>
+<total>7</total>
+<blitz>1</blitz>
+<hidden>1</hidden>
+</LU_rush-type>
+<LU_rush-type>
+<id>34</id>
+<abrev>5+2</abrev>
+<type>5 DL + 2</type>
+<total>7</total>
+<blitz>1</blitz>
+<hidden>1</hidden>
+</LU_rush-type>
+</dataroot>

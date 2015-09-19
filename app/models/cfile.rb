@@ -12,12 +12,18 @@ class Cfile
     @full_file = zips[1]
     @path = path
     counter()
+    @CFF = false
   end
 
   def read_zip()
+    count = 0
     Zip::File.open(@exported_file) do |zip|
       zip.each do |entry|
         entry.extract(@path + "/" + entry.name) {true}
+        count = count + 1
+      end
+      if count > 2
+        @CFF = true
       end
       modify_xml()
     end
@@ -59,6 +65,11 @@ class Cfile
     tb_analysis = Nokogiri::XML(File.open(File.join(@path, ANALYSIS[0] + ".xml")))
     tb_analysis.xpath("//" + ANALYSIS[0]).each do |node|
       node.name = ANALYSIS[1]
+    end
+    if @CFF
+      tb_analysis.xpath("//id").each do |node|
+        node.remove
+      end
     end
 
     File.write(ANALYSIS[2], tb_analysis.to_xml)

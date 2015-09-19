@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2015-09-12T21:43:44">
+<LU_run-direction>
+<id>1</id>
+<abrev>L</abrev>
+<description>Left</description>
+</LU_run-direction>
+<LU_run-direction>
+<id>2</id>
+<abrev>R</abrev>
+<description>Right</description>
+</LU_run-direction>
+</dataroot>

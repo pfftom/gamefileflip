@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2015-09-12T21:43:43">
+<LU_punt-contact-type>
+<id>1</id>
+<abrev>MBDR</abrev>
+<description>Muffed by designated returner</description>
+<display_order>100</display_order>
+</LU_punt-contact-type>
+<LU_punt-contact-type>
+<id>2</id>
+<abrev>MBC</abrev>
+<description>Muffed by contact with non-designated returner</description>
+<display_order>200</display_order>
+</LU_punt-contact-type>
+<LU_punt-contact-type>
+<id>3</id>
+<abrev>CC</abrev>
+<description>Clean catch from air</description>
+<display_order>300</display_order>
+</LU_punt-contact-type>
+<LU_punt-contact-type>
+<id>4</id>
+<abrev>BC</abrev>
+<description>Bobbled catch from air</description>
+<display_order>400</display_order>
+</LU_punt-contact-type>
+<LU_punt-contact-type>
+<id>5</id>
+<abrev>BF</abrev>
+<description>Bounced forwards</description>
+<display_order>500</display_order>
+</LU_punt-contact-type>
+<LU_punt-contact-type>
+<id>6</id>
+<abrev>BB</abrev>
+<description>Bounced backwards</description>
+<display_order>600</display_order>
+</LU_punt-contact-type>
+<LU_punt-contact-type>
+<id>7</id>
+<abrev>OOB</abrev>
+<description>Directly out of bounds</description>
+<display_order>700</display_order>
+</LU_punt-contact-type>
+<LU_punt-contact-type>
+<id>8</id>
+<abrev>CFFG</abrev>
+<description>Clean field from ground</description>
+<display_order>800</display_order>
+</LU_punt-contact-type>
+<LU_punt-contact-type>
+<id>9</id>
+<abrev>BOG</abrev>
+<description>Bobbled on ground</description>
+<display_order>900</display_order>
+</LU_punt-contact-type>
+<LU_punt-contact-type>
+<id>10</id>
+<abrev>KTC</abrev>
+<description>Kick Team Catch</description>
+<display_order>1000</display_order>
+</LU_punt-contact-type>
+<LU_punt-contact-type>
+<id>11</id>
+<abrev>KTB</abrev>
+<description>Kick Team Knocked Back</description>
+<display_order>1100</display_order>
+</LU_punt-contact-type>
+<LU_punt-contact-type>
+<id>12</id>
+<abrev>KTF</abrev>
+<description>Kick Team Knocked Forward</description>
+<display_order>1200</display_order>
+</LU_punt-contact-type>
+<LU_punt-contact-type>
+<id>13</id>
+<abrev>ICC</abrev>
+<description>Incidental Coverage Team Contact</description>
+<display_order>1300</display_order>
+</LU_punt-contact-type>
+<LU_punt-contact-type>
+<id>14</id>
+<abrev>DEZ</abrev>
+<description>Direct to Endzone</description>
+<display_order>1400</display_order>
+</LU_punt-contact-type>
+</dataroot>

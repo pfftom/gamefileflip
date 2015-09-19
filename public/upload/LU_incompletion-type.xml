@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2015-09-12T21:43:41">
+<LU_incompletion-type>
+<id>1</id>
+<abrev>UT</abrev>
+<type1>Underthrow</type1>
+<order1>10</order1>
+</LU_incompletion-type>
+<LU_incompletion-type>
+<id>2</id>
+<abrev>OT</abrev>
+<type1>Overthrow</type1>
+<order1>20</order1>
+</LU_incompletion-type>
+<LU_incompletion-type>
+<id>3</id>
+<abrev>BR</abrev>
+<type1>Behind Receiver</type1>
+<order1>30</order1>
+</LU_incompletion-type>
+<LU_incompletion-type>
+<id>4</id>
+<abrev>IF</abrev>
+<type1>In Front</type1>
+<order1>40</order1>
+</LU_incompletion-type>
+<LU_incompletion-type>
+<id>5</id>
+<abrev>MC</abrev>
+<type1>Miscommunication</type1>
+<order1>50</order1>
+</LU_incompletion-type>
+<LU_incompletion-type>
+<id>6</id>
+<abrev>SR</abrev>
+<type1>Stopped Route</type1>
+<order1>60</order1>
+</LU_incompletion-type>
+<LU_incompletion-type>
+<id>7</id>
+<abrev>PD</abrev>
+<type1>Pass Defense</type1>
+<order1>95</order1>
+</LU_incompletion-type>
+<LU_incompletion-type>
+<id>8</id>
+<abrev>SQ</abrev>
+<type1>Squeeze Ball</type1>
+<order1>80</order1>
+</LU_incompletion-type>
+<LU_incompletion-type>
+<id>9</id>
+<abrev>DP</abrev>
+<type1>Drop</type1>
+<order1>90</order1>
+</LU_incompletion-type>
+<LU_incompletion-type>
+<id>10</id>
+<abrev>HD</abrev>
+<type1>Hit by Defender</type1>
+<order1>100</order1>
+</LU_incompletion-type>
+<LU_incompletion-type>
+<id>11</id>
+<abrev>CC</abrev>
+<type1>Close Coverage</type1>
+<order1>110</order1>
+</LU_incompletion-type>
+<LU_incompletion-type>
+<id>12</id>
+<abrev>RC</abrev>
+<type1>Route Cut Off</type1>
+<order1>120</order1>
+</LU_incompletion-type>
+<LU_incompletion-type>
+<id>13</id>
+<abrev>OB</abrev>
+<type1>Catch OOB</type1>
+<order1>130</order1>
+</LU_incompletion-type>
+<LU_incompletion-type>
+<id>14</id>
+<abrev>HA</abrev>
+<type1>Hit as Thrown</type1>
+<order1>140</order1>
+</LU_incompletion-type>
+<LU_incompletion-type>
+<id>15</id>
+<abrev>BP</abrev>
+<type1>Batted Pass</type1>
+<order1>150</order1>
+</LU_incompletion-type>
+<LU_incompletion-type>
+<id>16</id>
+<abrev>FD</abrev>
+<type1>Receiver Fell Down</type1>
+<order1>160</order1>
+</LU_incompletion-type>
+<LU_incompletion-type>
+<id>17</id>
+<abrev>RE</abrev>
+<type1>Receiver Error</type1>
+<order1>170</order1>
+</LU_incompletion-type>
+<LU_incompletion-type>
+<id>18</id>
+<abrev>PE</abrev>
+<type1>Penalty</type1>
+<order1>180</order1>
+</LU_incompletion-type>
+<LU_incompletion-type>
+<id>19</id>
+<abrev>TA</abrev>
+<type1>Throw Away</type1>
+<order1>190</order1>
+</LU_incompletion-type>
+<LU_incompletion-type>
+<id>20</id>
+<abrev>DI</abrev>
+<type1>WR Deflected</type1>
+<order1>200</order1>
+</LU_incompletion-type>
+<LU_incompletion-type>
+<id>21</id>
+<abrev>HM</abrev>
+<type1>Hail Mary</type1>
+<order1>255</order1>
+</LU_incompletion-type>
+<LU_incompletion-type>
+<id>22</id>
+<abrev>CP</abrev>
+<type1>Contested Possession</type1>
+<order1>220</order1>
+</LU_incompletion-type>
+<LU_incompletion-type>
+<id>23</id>
+<abrev>MR</abrev>
+<type1>Misread Coverage</type1>
+<order1>230</order1>
+</LU_incompletion-type>
+<LU_incompletion-type>
+<id>24</id>
+<abrev>QS</abrev>
+<type1>Quarterback Slip</type1>
+<order1>240</order1>
+</LU_incompletion-type>
+<LU_incompletion-type>
+<id>25</id>
+<abrev>HO</abrev>
+<type1>Hit Official</type1>
+<order1>250</order1>
+</LU_incompletion-type>
+<LU_incompletion-type>
+<id>26</id>
+<abrev>HH</abrev>
+<type1>Hit Helmet</type1>
+<order1>254</order1>
+</LU_incompletion-type>
+<LU_incompletion-type>
+<id>27</id>
+<abrev>FO</abrev>
+<type1>Forceout</type1>
+<order1>115</order1>
+</LU_incompletion-type>
+</dataroot>

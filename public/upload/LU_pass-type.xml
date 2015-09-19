@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2015-09-12T21:43:42">
+<LU_pass-type>
+<id>1</id>
+<order>1</order>
+<type>Complete</type>
+<abrev>C</abrev>
+</LU_pass-type>
+<LU_pass-type>
+<id>2</id>
+<order>2</order>
+<type>Incomplete</type>
+<abrev>I</abrev>
+</LU_pass-type>
+<LU_pass-type>
+<id>3</id>
+<order>3</order>
+<type>Run</type>
+<abrev>R</abrev>
+</LU_pass-type>
+<LU_pass-type>
+<id>4</id>
+<order>4</order>
+<type>Interception</type>
+<abrev>IN</abrev>
+</LU_pass-type>
+<LU_pass-type>
+<id>5</id>
+<order>5</order>
+<type>Sack</type>
+<abrev>S</abrev>
+</LU_pass-type>
+<LU_pass-type>
+<id>6</id>
+<order>6</order>
+<type>Thrown Away</type>
+<abrev>T</abrev>
+</LU_pass-type>
+<LU_pass-type>
+<id>7</id>
+<order>7</order>
+<type>Hit as Threw</type>
+<abrev>H</abrev>
+</LU_pass-type>
+<LU_pass-type>
+<id>8</id>
+<order>8</order>
+<type>Batted Pass</type>
+<abrev>B</abrev>
+</LU_pass-type>
+<LU_pass-type>
+<id>9</id>
+<order>9</order>
+<type>Spike</type>
+<abrev>SP</abrev>
+</LU_pass-type>
+<LU_pass-type>
+<id>10</id>
+<order>10</order>
+<type>Lateral</type>
+<abrev>L</abrev>
+</LU_pass-type>
+</dataroot>

@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2015-09-12T21:43:42">
+<LU_penalty-type>
+<id>1</id>
+<order>1</order>
+<abrev>CHB</abrev>
+<type>Chop block</type>
+</LU_penalty-type>
+<LU_penalty-type>
+<id>2</id>
+<order>2</order>
+<abrev>DH</abrev>
+<type>Defensive holding</type>
+</LU_penalty-type>
+<LU_penalty-type>
+<id>3</id>
+<order>3</order>
+<abrev>DOF</abrev>
+<type>Defensive offside</type>
+</LU_penalty-type>
+<LU_penalty-type>
+<id>4</id>
+<order>4</order>
+<abrev>DOG</abrev>
+<type>Delay of game</type>
+</LU_penalty-type>
+<LU_penalty-type>
+<id>5</id>
+<order>5</order>
+<abrev>DPI</abrev>
+<type>Defensive pass interference</type>
+</LU_penalty-type>
+<LU_penalty-type>
+<id>6</id>
+<order>6</order>
+<abrev>DTM</abrev>
+<type>Defence 12 men on field</type>
+</LU_penalty-type>
+<LU_penalty-type>
+<id>7</id>
+<order>7</order>
+<abrev>ENC</abrev>
+<type>Encroachment</type>
+</LU_penalty-type>
+<LU_penalty-type>
+<id>8</id>
+<order>8</order>
+<abrev>FCI</abrev>
+<type>Fair Catch Interference</type>
+</LU_penalty-type>
+<LU_penalty-type>
+<id>9</id>
+<order>9</order>
+<abrev>FMK</abrev>
+<type>Face Mask (5 yards)</type>
+</LU_penalty-type>
+<LU_penalty-type>
+<id>10</id>
+<order>10</order>
+<abrev>FMM</abrev>
+<type>Face Mask (15 yards)</type>
+</LU_penalty-type>
+<LU_penalty-type>
+<id>11</id>
+<order>11</order>
+<abrev>FST</abrev>
+<type>False Start</type>
+</LU_penalty-type>
+<LU_penalty-type>
+<id>12</id>
+<order>12</order>
+<abrev>IBW</abrev>
+<type>Illegal block above waist</type>
+</LU_penalty-type>
+<LU_penalty-type>
+<id>13</id>
+<order>13</order>
+<abrev>ICT</abrev>
+<type>Illegal Contact</type>
+</LU_penalty-type>
+<LU_penalty-type>
+<id>14</id>
+<order>14</order>
+<abrev>IDK</abrev>
+<type>Ineligible downfield on kick</type>
+</LU_penalty-type>
+<LU_penalty-type>
+<id>15</id>
+<order>15</order>
+<abrev>IDP</abrev>
+<type>Ineligible downfield on pass</type>
+</LU_penalty-type>
+<LU_penalty-type>
+<id>16</id>
+<order>16</order>
+<abrev>IFP</abrev>
+<type>Illegal forward pass</type>
+</LU_penalty-type>
+<LU_penalty-type>
+<id>17</id>
+<order>17</order>
+<abrev>ILF</abrev>
+<type>Illegal formation</type>
+</LU_penalty-type>
+<LU_penalty-type>
+<id>18</id>
+<order>18</order>
+<abrev>ILHd</abrev>
+<type>Illegal use of hands (Defence)</type>
+</LU_penalty-type>
+<LU_penalty-type>
+<id>19</id>
+<order>19</order>
+<abrev>ILM</abrev>
+<type>Illegal motion</type>
+</LU_penalty-type>
+<LU_penalty-type>
+<id>20</id>
+<order>20</order>
+<abrev>ILS</abrev>
+<type>Illegal substitution</type>
+</LU_penalty-type>
+<LU_penalty-type>
+<id>21</id>
+<order>21</order>
+<abrev>ING</abrev>
+<type>Intentional grounding</type>
+</LU_penalty-type>
+<LU_penalty-type>
+<id>22</id>
+<order>22</order>
+<abrev>ISH</abrev>
+<type>Illegal shift</type>
+</LU_penalty-type>
+<LU_penalty-type>
+<id>23</id>
+<order>23</order>
+<abrev>ITK</abrev>
+<type>Illegal touching of Kick</type>
+</LU_penalty-type>
+<LU_penalty-type>
+<id>24</id>
+<order>24</order>
+<abrev>ITP</abrev>
+<type>Illegal touching of pass</type>
+</LU_penalty-type>
+<LU_penalty-type>
+<id>25</id>
+<order>25</order>
+<abrev>NZI</abrev>
+<type>Neutral Zone Infraction</type>
+</LU_penalty-type>
+<LU_penalty-type>
+<id>26</id>
+<order>26</order>
+<abrev>OFK</abrev>
+<type>Offside on free kick</type>
+</LU_penalty-type>
+<LU_penalty-type>
+<id>27</id>
+<order>27</order>
+<abrev>OH</abrev>
+<type>Offensive holding</type>
+</LU_penalty-type>
+<LU_penalty-type>
+<id>28</id>
+<order>28</order>
+<abrev>OOF</abrev>
+<type>Offensive Offside</type>
+</LU_penalty-type>
+<LU_penalty-type>
+<id>29</id>
+<order>29</order>
+<abrev>OPI</abrev>
+<type>Offensive Pass Interference</type>
+</LU_penalty-type>
+<LU_penalty-type>
+<id>30</id>
+<order>30</order>
+<abrev>PFdo</abrev>
+<type>Personal Foul (0.5 distance)</type>
+</LU_penalty-type>
+<LU_penalty-type>
+<id>31</id>
+<order>31</order>
+<abrev>RNK</abrev>
+<type>Running into the kicker</type>
+</LU_penalty-type>
+<LU_penalty-type>
+<id>32</id>
+<order>32</order>
+<abrev>RPS</abrev>
+<type>Roughing the passer</type>
+</LU_penalty-type>
+<LU_penalty-type>
+<id>33</id>
+<order>33</order>
+<abrev>RRK</abrev>
+<type>Roughing the kicker</type>
+</LU_penalty-type>
+<LU_penalty-type>
+<id>34</id>
+<order>34</order>
+<abrev>TAU</abrev>
+<type>Taunting</type>
+</LU_penalty-type>
+<LU_penalty-type>
+<id>35</id>
+<order>35</order>
+<abrev>TRP</abrev>
+<type>Tripping</type>
+</LU_penalty-type>
+<LU_penalty-type>
+<id>36</id>
+<order>36</order>
+<abrev>TRPd</abrev>
+<type>Tripping (Defence)</type>
+</LU_penalty-type>
+<LU_penalty-type>
+<id>37</id>
+<order>37</order>
+<abrev>UNR</abrev>
+<type>Unnecessary Roughness</type>
+</LU_penalty-type>
+<LU_penalty-type>
+<id>38</id>
+<order>38</order>
+<abrev>UNRd</abrev>
+<type>Unnecessary Roughness (Defence)</type>
+</LU_penalty-type>
+<LU_penalty-type>
+<id>39</id>
+<order>39</order>
+<abrev>UNSd</abrev>
+<type>Unsportsmanlike conduct</type>
+</LU_penalty-type>
+<LU_penalty-type>
+<id>40</id>
+<order>40</order>
+<abrev>OFS</abrev>
+<type>Offsetting Penalties</type>
+</LU_penalty-type>
+<LU_penalty-type>
+<id>41</id>
+<order>41</order>
+<abrev>Pfo</abrev>
+<type>Personal Foul</type>
+</LU_penalty-type>
+<LU_penalty-type>
+<id>42</id>
+<order>42</order>
+<abrev>DOK</abrev>
+<type>Defense Offside on Kick</type>
+</LU_penalty-type>
+<LU_penalty-type>
+<id>43</id>
+<order>43</order>
+<abrev>LBL</abrev>
+<type>Low Block</type>
+</LU_penalty-type>
+<LU_penalty-type>
+<id>44</id>
+<order>44</order>
+<abrev>Pfoo</abrev>
+<type>Personal Foul</type>
+</LU_penalty-type>
+<LU_penalty-type>
+<id>45</id>
+<order>45</order>
+<abrev>Pfd</abrev>
+<type>Personal Foul (Defence)</type>
+</LU_penalty-type>
+<LU_penalty-type>
+<id>46</id>
+<order>46</order>
+<abrev>DSq</abrev>
+<type>Disqualification</type>
+</LU_penalty-type>
+<LU_penalty-type>
+<id>47</id>
+<order>47</order>
+<abrev>ILH</abrev>
+<type>Illegal use of hands</type>
+</LU_penalty-type>
+<LU_penalty-type>
+<id>48</id>
+<order>48</order>
+<abrev>DoD</abrev>
+<type>Defensive delay of game</type>
+</LU_penalty-type>
+<LU_penalty-type>
+<id>49</id>
+<order>49</order>
+<abrev>OTM</abrev>
+<type>Offence 12 men on field</type>
+</LU_penalty-type>
+<LU_penalty-type>
+<id>50</id>
+<order>50</order>
+<abrev>CLP</abrev>
+<type>Clipping</type>
+</LU_penalty-type>
+<LU_penalty-type>
+<id>51</id>
+<order>51</order>
+<abrev>ICB</abrev>
+<type>Illegal Crackback</type>
+</LU_penalty-type>
+<LU_penalty-type>
+<id>52</id>
+<order>52</order>
+<abrev>TAUd</abrev>
+<type>Taunting (Defence)</type>
+</LU_penalty-type>
+<LU_penalty-type>
+<id>53</id>
+<order>53</order>
+<abrev>POP</abrev>
+<type>Player Out of Bounds</type>
+</LU_penalty-type>
+<LU_penalty-type>
+<id>54</id>
+<order>54</order>
+<abrev>KOB</abrev>
+<type>Kickoff Out of Bounds</type>
+</LU_penalty-type>
+<LU_penalty-type>
+<id>55</id>
+<order>55</order>
+<abrev>IOC</abrev>
+<type>Interference with Opportunity to catch</type>
+</LU_penalty-type>
+<LU_penalty-type>
+<id>56</id>
+<order>56</order>
+<abrev>UNS</abrev>
+<type>Unsportsmanlike Conduct</type>
+</LU_penalty-type>
+<LU_penalty-type>
+<id>57</id>
+<order>57</order>
+<abrev>BAT</abrev>
+<type>Illegal Bat</type>
+</LU_penalty-type>
+<LU_penalty-type>
+<id>58</id>
+<order>58</order>
+<abrev>LEV</abrev>
+<type>Leverage</type>
+</LU_penalty-type>
+<LU_penalty-type>
+<id>59</id>
+<order>59</order>
+<abrev>DSQd</abrev>
+<type>Disqualification (Defence)</type>
+</LU_penalty-type>
+<LU_penalty-type>
+<id>60</id>
+<order>60</order>
+<abrev>KIK</abrev>
+<type>Illegal Kick</type>
+</LU_penalty-type>
+<LU_penalty-type>
+<id>61</id>
+<order>61</order>
+<abrev>ILP</abrev>
+<type>Illegal Procedure</type>
+</LU_penalty-type>
+<LU_penalty-type>
+<id>62</id>
+<order>62</order>
+<abrev>ILR</abrev>
+<type>Illegal Receiver Pass</type>
+</LU_penalty-type>
+<LU_penalty-type>
+<id>63</id>
+<order>63</order>
+<abrev>IFC</abrev>
+<type>Invalid Fair Catch Signal</type>
+</LU_penalty-type>
+<LU_penalty-type>
+<id>64</id>
+<order>64</order>
+<abrev>SFK</abrev>
+<type>Short Free Kick</type>
+</LU_penalty-type>
+<LU_penalty-type>
+<id>65</id>
+<order>57</order>
+<abrev>BATd</abrev>
+<type>Illegal Bat</type>
+</LU_penalty-type>
+<LU_penalty-type>
+<id>66</id>
+<order>66</order>
+<abrev>BFC</abrev>
+<type>Blocking after Fair Catch Signal</type>
+</LU_penalty-type>
+<LU_penalty-type>
+<id>67</id>
+<order>67</order>
+<abrev>IBB</abrev>
+<type>Illegal Blindside Block</type>
+</LU_penalty-type>
+<LU_penalty-type>
+<id>68</id>
+<order>68</order>
+<abrev>HC</abrev>
+<type>Horse Collar Tackle</type>
+</LU_penalty-type>
+<LU_penalty-type>
+<id>69</id>
+<order>69</order>
+<abrev>WED</abrev>
+<type>Illegal Wedge on KO Return</type>
+</LU_penalty-type>
+<LU_penalty-type>
+<id>70</id>
+<order>70</order>
+<abrev>ILK</abrev>
+<type>Illegally Kicking The Ball</type>
+</LU_penalty-type>
+</dataroot>

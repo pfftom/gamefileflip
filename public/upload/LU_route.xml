@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2015-09-12T21:43:44">
+<LU_route>
+<id>1</id>
+<abrev>0R</abrev>
+<description>Wide Screen</description>
+<field-type>F</field-type>
+<break-direction>S</break-direction>
+<group>1</group>
+<group-order>1</group-order>
+<order>10</order>
+</LU_route>
+<LU_route>
+<id>2</id>
+<abrev>12R</abrev>
+<description>Whip Route (Breaking In)</description>
+<field-type>F</field-type>
+<break-direction>I</break-direction>
+<group>3</group>
+<group-order>2</group-order>
+<order>30</order>
+</LU_route>
+<LU_route>
+<id>3</id>
+<abrev>19R</abrev>
+<description>Slot Wheel</description>
+<field-type>F</field-type>
+<break-direction>S</break-direction>
+<group>10</group>
+<group-order>3</group-order>
+<order>40</order>
+</LU_route>
+<LU_route>
+<id>4</id>
+<abrev>1R</abrev>
+<description>Speed Out</description>
+<field-type>F</field-type>
+<break-direction>O</break-direction>
+<group>2</group>
+<group-order>4</group-order>
+<order>20</order>
+</LU_route>
+<LU_route>
+<id>5</id>
+<abrev>21R</abrev>
+<description>Whip Route (Breaking Out)</description>
+<field-type>F</field-type>
+<break-direction>O</break-direction>
+<group>2</group>
+<group-order>5</group-order>
+<order>60</order>
+</LU_route>
+<LU_route>
+<id>6</id>
+<abrev>29R</abrev>
+<description>Slant &amp; Go</description>
+<field-type>F</field-type>
+<break-direction>S</break-direction>
+<group>10</group>
+<group-order>6</group-order>
+<order>70</order>
+</LU_route>
+<LU_route>
+<id>7</id>
+<abrev>2R</abrev>
+<description>Slant Route</description>
+<field-type>F</field-type>
+<break-direction>I</break-direction>
+<group>3</group>
+<group-order>7</group-order>
+<order>50</order>
+</LU_route>
+<LU_route>
+<id>8</id>
+<abrev>39R</abrev>
+<description>Out &amp; Up</description>
+<field-type>F</field-type>
+<break-direction>S</break-direction>
+<group>10</group>
+<group-order>8</group-order>
+<order>90</order>
+</LU_route>
+<LU_route>
+<id>9</id>
+<abrev>3R</abrev>
+<description>Out Route</description>
+<field-type>F</field-type>
+<break-direction>O</break-direction>
+<group>4</group>
+<group-order>9</group-order>
+<order>80</order>
+</LU_route>
+<LU_route>
+<id>10</id>
+<abrev>4R</abrev>
+<description>In Route</description>
+<field-type>F</field-type>
+<break-direction>I</break-direction>
+<group>5</group>
+<group-order>10</group-order>
+<order>100</order>
+</LU_route>
+<LU_route>
+<id>11</id>
+<abrev>5R</abrev>
+<description>Comeback Route</description>
+<field-type>F</field-type>
+<break-direction>O</break-direction>
+<group>6</group>
+<group-order>11</group-order>
+<order>110</order>
+</LU_route>
+<LU_route>
+<id>12</id>
+<abrev>69R</abrev>
+<description>Hitch/Stop &amp; Go</description>
+<field-type>F</field-type>
+<break-direction>S</break-direction>
+<group>10</group>
+<group-order>10</group-order>
+<order>130</order>
+</LU_route>
+<LU_route>
+<id>13</id>
+<abrev>6R</abrev>
+<description>Hitch Route</description>
+<field-type>F</field-type>
+<break-direction>I</break-direction>
+<group>7</group>
+<group-order>10</group-order>
+<order>120</order>
+</LU_route>
+<LU_route>
+<id>14</id>
+<abrev>78R</abrev>
+<description>Corner-Post Route</description>
+<field-type>F</field-type>
+<break-direction>I</break-direction>
+<group>9</group>
+<group-order>3</group-order>
+<order>150</order>
+</LU_route>
+<LU_route>
+<id>15</id>
+<abrev>7R</abrev>
+<description>Corner Route</description>
+<field-type>F</field-type>
+<break-direction>O</break-direction>
+<group>8</group>
+<group-order>2</group-order>
+<order>140</order>
+</LU_route>
+<LU_route>
+<id>16</id>
+<abrev>87R</abrev>
+<description>Post-Corner Route</description>
+<field-type>F</field-type>
+<break-direction>O</break-direction>
+<group>8</group>
+<group-order>10</group-order>
+<order>170</order>
+</LU_route>
+<LU_route>
+<id>17</id>
+<abrev>8R</abrev>
+<description>Post Route</description>
+<field-type>F</field-type>
+<break-direction>I</break-direction>
+<group>9</group>
+<group-order>10</group-order>
+<order>160</order>
+</LU_route>
+<LU_route>
+<id>18</id>
+<abrev>9B</abrev>
+<description>Back Shoulder Go</description>
+<field-type>F</field-type>
+<break-direction>S</break-direction>
+<group>10</group>
+<group-order>10</group-order>
+<order>190</order>
+</LU_route>
+<LU_route>
+<id>19</id>
+<abrev>9F</abrev>
+<description>Endzone Fade</description>
+<field-type>F</field-type>
+<break-direction>S</break-direction>
+<group>10</group>
+<group-order>10</group-order>
+<order>200</order>
+</LU_route>
+<LU_route>
+<id>20</id>
+<abrev>9R</abrev>
+<description>Go Route</description>
+<field-type>F</field-type>
+<break-direction>S</break-direction>
+<group>10</group>
+<group-order>9</group-order>
+<order>180</order>
+</LU_route>
+<LU_route>
+<id>31</id>
+<abrev>XR</abrev>
+<description>Crossing Route</description>
+<field-type>F</field-type>
+<break-direction>I</break-direction>
+<group>11</group>
+<group-order>11</group-order>
+<order>110</order>
+</LU_route>
+<LU_route>
+<id>42</id>
+<abrev>H0</abrev>
+<description>Screen Right</description>
+<field-type>B</field-type>
+<left-right>R</left-right>
+<break-direction>S</break-direction>
+<group>Others</group>
+<group-order>99</group-order>
+<order>220</order>
+</LU_route>
+<LU_route>
+<id>43</id>
+<abrev>H1</abrev>
+<description>Screen Left</description>
+<field-type>B</field-type>
+<left-right>L</left-right>
+<break-direction>S</break-direction>
+<group>Others</group>
+<group-order>99</group-order>
+<order>230</order>
+</LU_route>
+<LU_route>
+<id>44</id>
+<abrev>H2</abrev>
+<description>Flare Right</description>
+<field-type>B</field-type>
+<left-right>R</left-right>
+<break-direction>O</break-direction>
+<group>Others</group>
+<group-order>99</group-order>
+<order>240</order>
+</LU_route>
+<LU_route>
+<id>45</id>
+<abrev>H3</abrev>
+<description>Flare Left</description>
+<field-type>B</field-type>
+<left-right>L</left-right>
+<break-direction>O</break-direction>
+<group>Others</group>
+<group-order>99</group-order>
+<order>250</order>
+</LU_route>
+<LU_route>
+<id>46</id>
+<abrev>H4</abrev>
+<description>Out Right</description>
+<field-type>B</field-type>
+<left-right>R</left-right>
+<break-direction>O</break-direction>
+<group>Others</group>
+<group-order>99</group-order>
+<order>260</order>
+</LU_route>
+<LU_route>
+<id>47</id>
+<abrev>H5</abrev>
+<description>Out Left</description>
+<field-type>B</field-type>
+<left-right>L</left-right>
+<break-direction>O</break-direction>
+<group>Others</group>
+<group-order>99</group-order>
+<order>270</order>
+</LU_route>
+<LU_route>
+<id>48</id>
+<abrev>H6</abrev>
+<description>Pivot / Circle Right</description>
+<field-type>B</field-type>
+<left-right>R</left-right>
+<break-direction>I</break-direction>
+<group>Others</group>
+<group-order>99</group-order>
+<order>280</order>
+</LU_route>
+<LU_route>
+<id>49</id>
+<abrev>H7</abrev>
+<description>Pivot / Circle Left</description>
+<field-type>B</field-type>
+<left-right>L</left-right>
+<break-direction>I</break-direction>
+<group>Others</group>
+<group-order>99</group-order>
+<order>290</order>
+</LU_route>
+<LU_route>
+<id>50</id>
+<abrev>H8</abrev>
+<description>Wheel Right</description>
+<field-type>B</field-type>
+<left-right>R</left-right>
+<break-direction>S</break-direction>
+<group>Others</group>
+<group-order>99</group-order>
+<order>300</order>
+</LU_route>
+<LU_route>
+<id>51</id>
+<abrev>H9</abrev>
+<description>Wheel Left</description>
+<field-type>B</field-type>
+<left-right>L</left-right>
+<break-direction>S</break-direction>
+<group>Others</group>
+<group-order>99</group-order>
+<order>310</order>
+</LU_route>
+<LU_route>
+<id>52</id>
+<abrev>LS</abrev>
+<description>Shovel Left</description>
+<field-type>B</field-type>
+<left-right>L</left-right>
+<break-direction>I</break-direction>
+<group>Others</group>
+<group-order>99</group-order>
+<order>320</order>
+</LU_route>
+<LU_route>
+<id>53</id>
+<abrev>RS</abrev>
+<description>Shovel Right</description>
+<field-type>B</field-type>
+<left-right>R</left-right>
+<break-direction>I</break-direction>
+<group>Others</group>
+<group-order>99</group-order>
+<order>330</order>
+</LU_route>
+<LU_route>
+<id>54</id>
+<abrev>JL</abrev>
+<description>Jet Left</description>
+<field-type>B</field-type>
+<left-right>L</left-right>
+<break-direction>I</break-direction>
+<group>Others</group>
+<group-order>99</group-order>
+<order>340</order>
+</LU_route>
+<LU_route>
+<id>55</id>
+<abrev>JR</abrev>
+<description>Jet Right</description>
+<field-type>B</field-type>
+<left-right>R</left-right>
+<break-direction>I</break-direction>
+<group>Others</group>
+<group-order>99</group-order>
+<order>350</order>
+</LU_route>
+</dataroot>

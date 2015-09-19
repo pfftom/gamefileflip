@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2015-09-12T21:43:41">
+<LU_draft-type>
+<id>1</id>
+<order>1</order>
+<type>Annual NFL Draft</type>
+</LU_draft-type>
+<LU_draft-type>
+<id>2</id>
+<order>2</order>
+<type>Free Agent</type>
+</LU_draft-type>
+<LU_draft-type>
+<id>3</id>
+<order>3</order>
+<type>Supplemental Draft</type>
+</LU_draft-type>
+<LU_draft-type>
+<id>4</id>
+<order>4</order>
+<type>Expansion Draft</type>
+</LU_draft-type>
+<LU_draft-type>
+<id>5</id>
+<order>5</order>
+<type>None</type>
+</LU_draft-type>
+<LU_draft-type>
+<id>6</id>
+<order>6</order>
+<type>AFL-NFL Draft</type>
+</LU_draft-type>
+<LU_draft-type>
+<id>7</id>
+<order>7</order>
+<type>AFL Redshirt Draft</type>
+</LU_draft-type>
+<LU_draft-type>
+<id>8</id>
+<order>8</order>
+<type>NFL Draft</type>
+</LU_draft-type>
+<LU_draft-type>
+<id>9</id>
+<order>9</order>
+<type>AFL Draft</type>
+</LU_draft-type>
+</dataroot>

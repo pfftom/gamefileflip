@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2015-09-12T21:43:42">
+<LU_poa-change-type>
+<id>1</id>
+<abrev>DB</abrev>
+<type>Defense Blocked</type>
+<order>10</order>
+<hidden>1</hidden>
+</LU_poa-change-type>
+<LU_poa-change-type>
+<id>2</id>
+<abrev>BO</abrev>
+<type>Bounce Out</type>
+<order>20</order>
+<hidden>1</hidden>
+</LU_poa-change-type>
+<LU_poa-change-type>
+<id>3</id>
+<abrev>BT</abrev>
+<type>Between Tackles</type>
+<order>30</order>
+<hidden>1</hidden>
+</LU_poa-change-type>
+<LU_poa-change-type>
+<id>4</id>
+<abrev>RF</abrev>
+<type>Reverse Field</type>
+<order>40</order>
+<hidden>1</hidden>
+</LU_poa-change-type>
+<LU_poa-change-type>
+<id>5</id>
+<abrev>DC</abrev>
+<type>Designed Cutback</type>
+<order>50</order>
+<hidden>1</hidden>
+</LU_poa-change-type>
+<LU_poa-change-type>
+<id>6</id>
+<abrev>V</abrev>
+<type>Voluntary</type>
+<order>60</order>
+<hidden>0</hidden>
+</LU_poa-change-type>
+<LU_poa-change-type>
+<id>7</id>
+<abrev>F</abrev>
+<type>Forced</type>
+<order>70</order>
+<hidden>0</hidden>
+</LU_poa-change-type>
+</dataroot>

@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2015-09-12T21:43:42">
+<LU_play-type>
+<id>0</id>
+<order>30</order>
+<abrev>TD</abrev>
+<type>Touchdown</type>
+<hidden>1</hidden>
+</LU_play-type>
+<LU_play-type>
+<id>1</id>
+<order>14</order>
+<abrev>BP</abrev>
+<type>Batted Pass</type>
+<hidden>0</hidden>
+</LU_play-type>
+<LU_play-type>
+<id>2</id>
+<order>13</order>
+<abrev>H</abrev>
+<type>Hit</type>
+<hidden>0</hidden>
+</LU_play-type>
+<LU_play-type>
+<id>3</id>
+<order>12</order>
+<abrev>P</abrev>
+<type>Pressure</type>
+<hidden>0</hidden>
+</LU_play-type>
+<LU_play-type>
+<id>4</id>
+<order>15</order>
+<abrev>SK</abrev>
+<type>Sack</type>
+<hidden>0</hidden>
+</LU_play-type>
+<LU_play-type>
+<id>5</id>
+<order>29</order>
+<abrev>Fu</abrev>
+<type>Fumble</type>
+<hidden>0</hidden>
+</LU_play-type>
+<LU_play-type>
+<id>6</id>
+<order>17</order>
+<abrev>FF</abrev>
+<type>Forced Fumble</type>
+<hidden>0</hidden>
+</LU_play-type>
+<LU_play-type>
+<id>7</id>
+<order>18</order>
+<abrev>FR</abrev>
+<type>Fumble Recovery</type>
+<hidden>0</hidden>
+</LU_play-type>
+<LU_play-type>
+<id>8</id>
+<order>19</order>
+<abrev>MT</abrev>
+<type>Missed Tackle</type>
+<hidden>0</hidden>
+</LU_play-type>
+<LU_play-type>
+<id>9</id>
+<order>21</order>
+<abrev>DP</abrev>
+<type>Dropped Pass</type>
+<hidden>0</hidden>
+</LU_play-type>
+<LU_play-type>
+<id>10</id>
+<order>28</order>
+<abrev>DPI</abrev>
+<type>Dropped Interception</type>
+<hidden>0</hidden>
+</LU_play-type>
+<LU_play-type>
+<id>11</id>
+<order>31</order>
+<abrev>PEN</abrev>
+<type>Penalty</type>
+<hidden>0</hidden>
+</LU_play-type>
+<LU_play-type>
+<id>12</id>
+<order>20</order>
+<abrev>PD</abrev>
+<type>Pass Defenced</type>
+<hidden>0</hidden>
+</LU_play-type>
+<LU_play-type>
+<id>13</id>
+<order>0</order>
+<abrev>KO</abrev>
+<type>Kick Off</type>
+<hidden>1</hidden>
+</LU_play-type>
+<LU_play-type>
+<id>14</id>
+<order>2</order>
+<abrev>KOPB</abrev>
+<type>Kick Off - Poor Block</type>
+<hidden>1</hidden>
+</LU_play-type>
+<LU_play-type>
+<id>15</id>
+<order>3</order>
+<abrev>KOGB</abrev>
+<type>Kick Off - Good Block</type>
+<hidden>1</hidden>
+</LU_play-type>
+<LU_play-type>
+<id>16</id>
+<order>4</order>
+<abrev>KOGT</abrev>
+<type>Kick Off - Good Tackle</type>
+<hidden>1</hidden>
+</LU_play-type>
+<LU_play-type>
+<id>17</id>
+<order>35</order>
+<abrev>INJ</abrev>
+<type>Injured on play</type>
+<hidden>1</hidden>
+</LU_play-type>
+<LU_play-type>
+<id>18</id>
+<order>32</order>
+<abrev>D-PEN</abrev>
+<type>Declined Penalty</type>
+<hidden>0</hidden>
+</LU_play-type>
+<LU_play-type>
+<id>19</id>
+<order>25</order>
+<abrev>SB</abrev>
+<type>Screen Block</type>
+<hidden>0</hidden>
+</LU_play-type>
+<LU_play-type>
+<id>20</id>
+<order>7</order>
+<abrev>PU</abrev>
+<type>Punt</type>
+<hidden>1</hidden>
+</LU_play-type>
+<LU_play-type>
+<id>21</id>
+<order>9</order>
+<abrev>PUPB</abrev>
+<type>Punt - Poor Block</type>
+<hidden>1</hidden>
+</LU_play-type>
+<LU_play-type>
+<id>22</id>
+<order>10</order>
+<abrev>PUGB</abrev>
+<type>Punt - Good Block</type>
+<hidden>1</hidden>
+</LU_play-type>
+<LU_play-type>
+<id>23</id>
+<order>11</order>
+<abrev>PUGT</abrev>
+<type>Punt - Good Tackle</type>
+<hidden>1</hidden>
+</LU_play-type>
+<LU_play-type>
+<id>24</id>
+<order>34</order>
+<abrev>R-INJ</abrev>
+<type>Return after injury</type>
+<hidden>1</hidden>
+</LU_play-type>
+<LU_play-type>
+<id>25</id>
+<order>22</order>
+<abrev>IN</abrev>
+<type>Interception</type>
+<hidden>1</hidden>
+</LU_play-type>
+<LU_play-type>
+<id>26</id>
+<order>36</order>
+<abrev>NULL</abrev>
+<type>NULL</type>
+<hidden>0</hidden>
+</LU_play-type>
+<LU_play-type>
+<id>27</id>
+<order>27</order>
+<abrev>PB</abrev>
+<type>Pass Block</type>
+<hidden>1</hidden>
+</LU_play-type>
+<LU_play-type>
+<id>28</id>
+<order>23</order>
+<abrev>DT</abrev>
+<type>Double Team</type>
+<hidden>1</hidden>
+</LU_play-type>
+<LU_play-type>
+<id>29</id>
+<order>8</order>
+<abrev>PR</abrev>
+<type>Punt Return</type>
+<hidden>1</hidden>
+</LU_play-type>
+<LU_play-type>
+<id>30</id>
+<order>1</order>
+<abrev>KR</abrev>
+<type>Kick Return</type>
+<hidden>1</hidden>
+</LU_play-type>
+<LU_play-type>
+<id>31</id>
+<order>5</order>
+<abrev>FG</abrev>
+<type>Field Goal</type>
+<hidden>1</hidden>
+</LU_play-type>
+<LU_play-type>
+<id>32</id>
+<order>16</order>
+<abrev>SK/2</abrev>
+<type>Half a Sack</type>
+<hidden>1</hidden>
+</LU_play-type>
+<LU_play-type>
+<id>33</id>
+<order>33</order>
+<abrev>O-PEN</abrev>
+<type>Offsetting Penalty</type>
+<hidden>0</hidden>
+</LU_play-type>
+<LU_play-type>
+<id>34</id>
+<order>6</order>
+<abrev>EP</abrev>
+<type>Extra Point</type>
+<hidden>1</hidden>
+</LU_play-type>
+<LU_play-type>
+<id>35</id>
+<order>26</order>
+<abrev>WRB</abrev>
+<type>WR Block</type>
+<hidden>1</hidden>
+</LU_play-type>
+<LU_play-type>
+<id>36</id>
+<order>24</order>
+<abrev>RB</abrev>
+<type>Run Block</type>
+<hidden>1</hidden>
+</LU_play-type>
+<LU_play-type>
+<id>37</id>
+<order>37</order>
+<abrev>QMT</abrev>
+<type>Missed Tackle On QB</type>
+<hidden>0</hidden>
+</LU_play-type>
+<LU_play-type>
+<id>38</id>
+<order>38</order>
+<abrev>UP</abrev>
+<type>Unrecorded Pressure</type>
+<hidden>0</hidden>
+</LU_play-type>
+<LU_play-type>
+<id>39</id>
+<order>39</order>
+<abrev>TS</abrev>
+<type>Tackle Surrendered</type>
+<hidden>1</hidden>
+</LU_play-type>
+<LU_play-type>
+<id>40</id>
+<order>40</order>
+<abrev>CF</abrev>
+<type>Caused Flag</type>
+<hidden>0</hidden>
+</LU_play-type>
+<LU_play-type>
+<id>41</id>
+<order>41</order>
+<abrev>MH</abrev>
+<type>Muffed Handoff</type>
+<hidden>0</hidden>
+</LU_play-type>
+<LU_play-type>
+<id>42</id>
+<order>42</order>
+<abrev>BD</abrev>
+<type>Beaten Defender</type>
+<hidden>0</hidden>
+</LU_play-type>
+<LU_play-type>
+<id>43</id>
+<order>43</order>
+<abrev>HD</abrev>
+<type>Hit By Defender</type>
+<hidden>0</hidden>
+</LU_play-type>
+<LU_play-type>
+<id>44</id>
+<order>44</order>
+<abrev>CC</abrev>
+<type>Close Coverage</type>
+<hidden>0</hidden>
+</LU_play-type>
+<LU_play-type>
+<id>45</id>
+<order>45</order>
+<abrev>RC</abrev>
+<type>Route Cut</type>
+<hidden>0</hidden>
+</LU_play-type>
+<LU_play-type>
+<id>46</id>
+<order>46</order>
+<abrev>FO</abrev>
+<type>Force Out</type>
+<hidden>0</hidden>
+</LU_play-type>
+</dataroot>

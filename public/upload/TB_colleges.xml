@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2015-09-12T21:43:45">
+<TB_colleges>
+<id>88</id>
+<name>Atlanta, GA</name>
+</TB_colleges>
+<TB_colleges>
+<id>404</id>
+<name>Grayson, GA</name>
+</TB_colleges>
+<TB_colleges>
+<id>417</id>
+<name>Chapel Hill, NC</name>
+</TB_colleges>
+<TB_colleges>
+<id>465</id>
+<name>Iowa City, IA</name>
+</TB_colleges>
+<TB_colleges>
+<id>475</id>
+<name>Mauldin, SC</name>
+</TB_colleges>
+<TB_colleges>
+<id>543</id>
+<name>Jonesboro, AR</name>
+</TB_colleges>
+<TB_colleges>
+<id>106</id>
+<name>Honolulu, HI</name>
+</TB_colleges>
+<TB_colleges>
+<id>129</id>
+<name>Roswell, GA</name>
+</TB_colleges>
+<TB_colleges>
+<id>139</id>
+<name>Apex, NC</name>
+</TB_colleges>
+<TB_colleges>
+<id>141</id>
+<name>Woodstock, GA</name>
+</TB_colleges>
+<TB_colleges>
+<id>149</id>
+<name>Tallahassee, FL</name>
+</TB_colleges>
+<TB_colleges>
+<id>172</id>
+<name>Miami, FL</name>
+</TB_colleges>
+<TB_colleges>
+<id>199</id>
+<name>Fort Lauderdale, FL</name>
+</TB_colleges>
+<TB_colleges>
+<id>211</id>
+<name>Naples, FL</name>
+</TB_colleges>
+<TB_colleges>
+<id>218</id>
+<name>Fort Myers, FL</name>
+</TB_colleges>
+<TB_colleges>
+<id>228</id>
+<name>Montgomery, AL</name>
+</TB_colleges>
+<TB_colleges>
+<id>229</id>
+<name>Memphis, TN</name>
+</TB_colleges>
+<TB_colleges>
+<id>238</id>
+<name>Orangeburg, SC</name>
+</TB_colleges>
+<TB_colleges>
+<id>251</id>
+<name>Savannah, GA</name>
+</TB_colleges>
+<TB_colleges>
+<id>252</id>
+<name>Hallandale, FL</name>
+</TB_colleges>
+<TB_colleges>
+<id>257</id>
+<name>Thomasville, GA</name>
+</TB_colleges>
+<TB_colleges>
+<id>309</id>
+<name>Troy, NC</name>
+</TB_colleges>
+<TB_colleges>
+<id>311</id>
+<name>Hiddenite, NC</name>
+</TB_colleges>
+<TB_colleges>
+<id>312</id>
+<name>Orlando, FL</name>
+</TB_colleges>
+<TB_colleges>
+<id>313</id>
+<name>Gastonia, NC</name>
+</TB_colleges>
+<TB_colleges>
+<id>314</id>
+<name>Spartanburg, SC</name>
+</TB_colleges>
+<TB_colleges>
+<id>315</id>
+<name>Monroe, NC</name>
+</TB_colleges>
+<TB_colleges>
+<id>316</id>
+<name>Haymarket, VA</name>
+</TB_colleges>
+<TB_colleges>
+<id>317</id>
+<name>Raleigh, NC</name>
+</TB_colleges>
+<TB_colleges>
+<id>318</id>
+<name>Covington, GA</name>
+</TB_colleges>
+<TB_colleges>
+<id>319</id>
+<name>Greensboro, GA</name>
+</TB_colleges>
+<TB_colleges>
+<id>320</id>
+<name>Belton, SC</name>
+</TB_colleges>
+<TB_colleges>
+<id>321</id>
+<name>Wilmington, NC</name>
+</TB_colleges>
+<TB_colleges>
+<id>322</id>
+<name>Norcross, GA</name>
+</TB_colleges>
+<TB_colleges>
+<id>324</id>
+<name>Brooksville, FL</name>
+</TB_colleges>
+<TB_colleges>
+<id>326</id>
+<name>Taylorsville, NC</name>
+</TB_colleges>
+<TB_colleges>
+<id>327</id>
+<name>Mount Gilead, NC</name>
+</TB_colleges>
+<TB_colleges>
+<id>328</id>
+<name>Palm Beach Gardens, FL</name>
+</TB_colleges>
+<TB_colleges>
+<id>329</id>
+<name>Asheville, NC</name>
+</TB_colleges>
+<TB_colleges>
+<id>330</id>
+<name>Cookeville, TN</name>
+</TB_colleges>
+<TB_colleges>
+<id>331</id>
+<name>North Augusta, SC</name>
+</TB_colleges>
+<TB_colleges>
+<id>333</id>
+<name>Irmo, SC</name>
+</TB_colleges>
+<TB_colleges>
+<id>334</id>
+<name>Dacula, GA</name>
+</TB_colleges>
+<TB_colleges>
+<id>335</id>
+<name>South Daytona, FL</name>
+</TB_colleges>
+<TB_colleges>
+<id>336</id>
+<name>Columbus, GA</name>
+</TB_colleges>
+<TB_colleges>
+<id>337</id>
+<name>Greensboro, NC</name>
+</TB_colleges>
+<TB_colleges>
+<id>338</id>
+<name>Waynesville, NC</name>
+</TB_colleges>
+<TB_colleges>
+<id>339</id>
+<name>Raeford, NC</name>
+</TB_colleges>
+<TB_colleges>
+<id>340</id>
+<name>Spruce Pine, NC</name>
+</TB_colleges>
+<TB_colleges>
+<id>341</id>
+<name>Snellville, GA</name>
+</TB_colleges>
+<TB_colleges>
+<id>342</id>
+<name>Fuquay-Varina, NC</name>
+</TB_colleges>
+<TB_colleges>
+<id>343</id>
+<name>Lutz, FL</name>
+</TB_colleges>
+<TB_colleges>
+<id>344</id>
+<name>Calhoun Falls, SC</name>
+</TB_colleges>
+<TB_colleges>
+<id>345</id>
+<name>Kennesaw, GA</name>
+</TB_colleges>
+<TB_colleges>
+<id>346</id>
+<name>Abbeville, SC</name>
+</TB_colleges>
+<TB_colleges>
+<id>347</id>
+<name>Cumming, GA</name>
+</TB_colleges>
+<TB_colleges>
+<id>348</id>
+<name>Knoxville, TN</name>
+</TB_colleges>
+<TB_colleges>
+<id>350</id>
+<name>Lithonia, GA</name>
+</TB_colleges>
+<TB_colleges>
+<id>351</id>
+<name>Blythewood, SC</name>
+</TB_colleges>
+<TB_colleges>
+<id>352</id>
+<name>Southern Pines, NC</name>
+</TB_colleges>
+<TB_colleges>
+<id>353</id>
+<name>Hamilton, GA</name>
+</TB_colleges>
+<TB_colleges>
+<id>355</id>
+<name>Durham, NC</name>
+</TB_colleges>
+<TB_colleges>
+<id>356</id>
+<name>Calhoun, GA</name>
+</TB_colleges>
+<TB_colleges>
+<id>357</id>
+<name>Charlotte, NC</name>
+</TB_colleges>
+<TB_colleges>
+<id>358</id>
+<name>Simpsonville, SC</name>
+</TB_colleges>
+<TB_colleges>
+<id>360</id>
+<name>Jacksonville, NC</name>
+</TB_colleges>
+<TB_colleges>
+<id>362</id>
+<name>Beech Island, SC</name>
+</TB_colleges>
+<TB_colleges>
+<id>363</id>
+<name>Vilas, NC</name>
+</TB_colleges>
+<TB_colleges>
+<id>364</id>
+<name>Duncan, SC</name>
+</TB_colleges>
+<TB_colleges>
+<id>365</id>
+<name>Winston-Salem, NC</name>
+</TB_colleges>
+<TB_colleges>
+<id>366</id>
+<name>Shelby, NC</name>
+</TB_colleges>
+<TB_colleges>
+<id>367</id>
+<name>Duluth, GA</name>
+</TB_colleges>
+<TB_colleges>
+<id>368</id>
+<name>Hampton, GA</name>
+</TB_colleges>
+<TB_colleges>
+<id>369</id>
+<name>York, SC</name>
+</TB_colleges>
+<TB_colleges>
+<id>370</id>
+<name>Loganville, GA</name>
+</TB_colleges>
+<TB_colleges>
+<id>373</id>
+<name>Matthews, NC</name>
+</TB_colleges>
+<TB_colleges>
+<id>374</id>
+<name>China Grove, NC</name>
+</TB_colleges>
+<TB_colleges>
+<id>375</id>
+<name>Gainesville, GA</name>
+</TB_colleges>
+<TB_colleges>
+<id>376</id>
+<name>Ellenwood, GA</name>
+</TB_colleges>
+<TB_colleges>
+<id>377</id>
+<name>Macon, GA</name>
+</TB_colleges>
+<TB_colleges>
+<id>380</id>
+<name>Elizabeth City, NC</name>
+</TB_colleges>
+<TB_colleges>
+<id>381</id>
+<name>Elon, NC</name>
+</TB_colleges>
+<TB_colleges>
+<id>384</id>
+<name>Tampa, FL</name>
+</TB_colleges>
+<TB_colleges>
+<id>595</id>
+<name>Hope Mills, NC</name>
+</TB_colleges>
+<TB_colleges>
+<id>678</id>
+<name>Rock Hill, SC</name>
+</TB_colleges>
+<TB_colleges>
+<id>699</id>
+<name>Richmond, VA</name>
+</TB_colleges>
+<TB_colleges>
+<id>731</id>
+<name>Decatur, GA</name>
+</TB_colleges>
+<TB_colleges>
+<id>741</id>
+<name>Immokalee, FL</name>
+</TB_colleges>
+<TB_colleges>
+<id>774</id>
+<name>Greenville, SC</name>
+</TB_colleges>
+<TB_colleges>
+<id>817</id>
+<name>Maryville, TN</name>
+</TB_colleges>
+<TB_colleges>
+<id>838</id>
+<name>Pfafftown, NC</name>
+</TB_colleges>
+<TB_colleges>
+<id>853</id>
+<name>Cornelius, NC</name>
+</TB_colleges>
+<TB_colleges>
+<id>885</id>
+<name>Lauderdale Lakes, FL</name>
+</TB_colleges>
+<TB_colleges>
+<id>903</id>
+<name>Columbia, SC</name>
+</TB_colleges>
+<TB_colleges>
+<id>997</id>
+<name>Florence, SC</name>
+</TB_colleges>
+<TB_colleges>
+<id>1041</id>
+<name>Apopka, FL</name>
+</TB_colleges>
+<TB_colleges>
+<id>1246</id>
+<name>Springfield, MA</name>
+</TB_colleges>
+<TB_colleges>
+<id>1353</id>
+<name>Browns Summit, NC</name>
+</TB_colleges>
+<TB_colleges>
+<id>1354</id>
+<name>Fort Mill, SC</name>
+</TB_colleges>
+<TB_colleges>
+<id>1465</id>
+<name>Easley, SC</name>
+</TB_colleges>
+<TB_colleges>
+<id>1468</id>
+<name>Sugar Hill, GA</name>
+</TB_colleges>
+<TB_colleges>
+<id>1472</id>
+<name>Boiling Springs, SC</name>
+</TB_colleges>
+<TB_colleges>
+<id>1476</id>
+<name>Greenwood, SC</name>
+</TB_colleges>
+<TB_colleges>
+<id>1483</id>
+<name>Central, SC</name>
+</TB_colleges>
+<TB_colleges>
+<id>1488</id>
+<name>Taylors, SC</name>
+</TB_colleges>
+<TB_colleges>
+<id>1490</id>
+<name>Hopkins, SC</name>
+</TB_colleges>
+<TB_colleges>
+<id>1492</id>
+<name>Goose Creek, SC</name>
+</TB_colleges>
+<TB_colleges>
+<id>1493</id>
+<name>Greer, SC</name>
+</TB_colleges>
+<TB_colleges>
+<id>1495</id>
+<name>Ninety Six, SC</name>
+</TB_colleges>
+<TB_colleges>
+<id>1511</id>
+<name>Franklin, TN</name>
+</TB_colleges>
+<TB_colleges>
+<id>1588</id>
+<name>Beaufort, SC</name>
+</TB_colleges>
+<TB_colleges>
+<id>1594</id>
+<name>Travelers Rest, SC</name>
+</TB_colleges>
+<TB_colleges>
+<id>1596</id>
+<name>Myrtle Beach, SC</name>
+</TB_colleges>
+<TB_colleges>
+<id>1598</id>
+<name>Walterboro, SC</name>
+</TB_colleges>
+<TB_colleges>
+<id>1609</id>
+<name>Inverness, FL</name>
+</TB_colleges>
+<TB_colleges>
+<id>1610</id>
+<name>Sumter, SC</name>
+</TB_colleges>
+<TB_colleges>
+<id>1611</id>
+<name>Statesville, NC</name>
+</TB_colleges>
+<TB_colleges>
+<id>1614</id>
+<name>Anderson, SC</name>
+</TB_colleges>
+<TB_colleges>
+<id>1616</id>
+<name>Hope Mills, SC</name>
+</TB_colleges>
+<TB_colleges>
+<id>1617</id>
+<name>Oldsmar, FL</name>
+</TB_colleges>
+<TB_colleges>
+<id>1618</id>
+<name>Olney, MD</name>
+</TB_colleges>
+<TB_colleges>
+<id>1620</id>
+<name>Vance, SC</name>
+</TB_colleges>
+<TB_colleges>
+<id>1621</id>
+<name>Sylacauga, AL</name>
+</TB_colleges>
+<TB_colleges>
+<id>1622</id>
+<name>Navarre, FL</name>
+</TB_colleges>
+<TB_colleges>
+<id>1623</id>
+<name>Moore, SC</name>
+</TB_colleges>
+<TB_colleges>
+<id>1625</id>
+<name>Elberton, GA</name>
+</TB_colleges>
+<TB_colleges>
+<id>1627</id>
+<name>Clemson, SC</name>
+</TB_colleges>
+<TB_colleges>
+<id>1628</id>
+<name>Piedmont, SC</name>
+</TB_colleges>
+<TB_colleges>
+<id>1629</id>
+<name>Johns Creek, GA</name>
+</TB_colleges>
+<TB_colleges>
+<id>1632</id>
+<name>Lamar, SC</name>
+</TB_colleges>
+<TB_colleges>
+<id>1633</id>
+<name>Middletown, MD</name>
+</TB_colleges>
+<TB_colleges>
+<id>1634</id>
+<name>Williston, SC</name>
+</TB_colleges>
+<TB_colleges>
+<id>1635</id>
+<name>Smoaks, SC</name>
+</TB_colleges>
+<TB_colleges>
+<id>1636</id>
+<name>Marston, NC</name>
+</TB_colleges>
+<TB_colleges>
+<id>1637</id>
+<name>Six Mile, SC</name>
+</TB_colleges>
+<TB_colleges>
+<id>1639</id>
+<name>Broxton, GA</name>
+</TB_colleges>
+<TB_colleges>
+<id>1640</id>
+<name>Lake Waccamaw, NC</name>
+</TB_colleges>
+<TB_colleges>
+<id>1644</id>
+<name>Isle of Palms, SC</name>
+</TB_colleges>
+<TB_colleges>
+<id>1646</id>
+<name>Summit, NJ</name>
+</TB_colleges>
+<TB_colleges>
+<id>1649</id>
+<name>Mooresboro, NC</name>
+</TB_colleges>
+<TB_colleges>
+<id>1650</id>
+<name>Leland, NC</name>
+</TB_colleges>
+<TB_colleges>
+<id>3965</id>
+<name>Lancaster, SC</name>
+</TB_colleges>
+<TB_colleges>
+<id>4088</id>
+<name>San Juan Capistrano, CA</name>
+</TB_colleges>
+<TB_colleges>
+<id>1902</id>
+<name>Belmont, NC</name>
+</TB_colleges>
+<TB_colleges>
+<id>1998</id>
+<name>Clayton, NC</name>
+</TB_colleges>
+<TB_colleges>
+<id>2125</id>
+<name>Thomasville, NC</name>
+</TB_colleges>
+<TB_colleges>
+<id>2324</id>
+<name>Lincolnton, NC</name>
+</TB_colleges>
+<TB_colleges>
+<id>2337</id>
+<name>Pilot Mountain, NC</name>
+</TB_colleges>
+<TB_colleges>
+<id>2359</id>
+<name>Lincolnton, GA</name>
+</TB_colleges>
+<TB_colleges>
+<id>2403</id>
+<name>Hoschton, GA</name>
+</TB_colleges>
+<TB_colleges>
+<id>2733</id>
+<name>Sterling, VA</name>
+</TB_colleges>
+<TB_colleges>
+<id>2740</id>
+<name>Charlottesville, VA</name>
+</TB_colleges>
+<TB_colleges>
+<id>2998</id>
+<name>Moncks Corner, SC</name>
+</TB_colleges>
+<TB_colleges>
+<id>3369</id>
+<name>Decatur, AL</name>
+</TB_colleges>
+<TB_colleges>
+<id>4680</id>
+<name>Bushnell, FL</name>
+</TB_colleges>
+<TB_colleges>
+<id>5285</id>
+<name>Jensen Beach, FL</name>
+</TB_colleges>
+<TB_colleges>
+<id>5715</id>
+<name>Farmville, NC</name>
+</TB_colleges>
+<TB_colleges>
+<id>6014</id>
+<name>Pavo, GA</name>
+</TB_colleges>
+<TB_colleges>
+<id>6171</id>
+<name>Sylva, NC</name>
+</TB_colleges>
+</dataroot>

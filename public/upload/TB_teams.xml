@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2015-09-12T21:43:47">
+<TB_teams>
+<id>140</id>
+<order>41</order>
+<city>Clemson</city>
+<nickname>Tigers</nickname>
+<abrev1>CLEMSO</abrev1>
+<abrev2>CLE</abrev2>
+<conf>ACC</conf>
+<div>FBS</div>
+<stadium>Memorial Stadium</stadium>
+<Colours>Orange &amp; White</Colours>
+<bcolour>1335536</bcolour>
+<fcolour>16777215</fcolour>
+</TB_teams>
+<TB_teams>
+<id>108</id>
+<order>9</order>
+<city>Appalachian State</city>
+<nickname>Mountaineers</nickname>
+<abrev1>APPSTA</abrev1>
+<abrev2>APP</abrev2>
+<conf>Sun Belt</conf>
+<div>FBS</div>
+<stadium>Kidd Brewer Stadium</stadium>
+<Colours>Black &amp; Yellow</Colours>
+<bcolour>0</bcolour>
+<fcolour>2147839</fcolour>
+</TB_teams>
+</dataroot>

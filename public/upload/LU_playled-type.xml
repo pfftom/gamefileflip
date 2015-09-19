@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2015-09-12T21:43:42">
+<LU_playled-type>
+<id>1</id>
+<type>Downs</type>
+</LU_playled-type>
+<LU_playled-type>
+<id>2</id>
+<type>End Of Game</type>
+</LU_playled-type>
+<LU_playled-type>
+<id>3</id>
+<type>End Of Half</type>
+</LU_playled-type>
+<LU_playled-type>
+<id>4</id>
+<type>Field Goal</type>
+</LU_playled-type>
+<LU_playled-type>
+<id>5</id>
+<type>Fumble</type>
+</LU_playled-type>
+<LU_playled-type>
+<id>6</id>
+<type>Fumble-TD</type>
+</LU_playled-type>
+<LU_playled-type>
+<id>7</id>
+<type>Interception</type>
+</LU_playled-type>
+<LU_playled-type>
+<id>8</id>
+<type>Interception-TD</type>
+</LU_playled-type>
+<LU_playled-type>
+<id>9</id>
+<type>Missed FG</type>
+</LU_playled-type>
+<LU_playled-type>
+<id>10</id>
+<type>Punt</type>
+</LU_playled-type>
+<LU_playled-type>
+<id>11</id>
+<type>Safety</type>
+</LU_playled-type>
+<LU_playled-type>
+<id>12</id>
+<type>Touchdown</type>
+</LU_playled-type>
+</dataroot>

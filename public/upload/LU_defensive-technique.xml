@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2015-09-12T21:43:40">
+<LU_defensive-technique>
+<id>1</id>
+<abrev>00</abrev>
+<pff-technique>9</pff-technique>
+<side>L</side>
+<location>8</location>
+<description>Wide of the ELOS</description>
+</LU_defensive-technique>
+<LU_defensive-technique>
+<id>2</id>
+<abrev>01</abrev>
+<pff-technique>Yo</pff-technique>
+<side>L</side>
+<location>7.6</location>
+<description>Outside Shade of 3rd TE</description>
+</LU_defensive-technique>
+<LU_defensive-technique>
+<id>3</id>
+<abrev>02</abrev>
+<pff-technique>Y</pff-technique>
+<side>L</side>
+<location>7.5</location>
+<description>Head up on 3rd TE</description>
+</LU_defensive-technique>
+<LU_defensive-technique>
+<id>4</id>
+<abrev>03</abrev>
+<pff-technique>Yi</pff-technique>
+<side>L</side>
+<location>7.4</location>
+<description>Inside shade of 3rd TE</description>
+</LU_defensive-technique>
+<LU_defensive-technique>
+<id>5</id>
+<abrev>04</abrev>
+<pff-technique>E</pff-technique>
+<side>L</side>
+<location>6.75</location>
+<description>E-Gap; gap between TE 2-3</description>
+</LU_defensive-technique>
+<LU_defensive-technique>
+<id>6</id>
+<abrev>05</abrev>
+<pff-technique>8o</pff-technique>
+<side>L</side>
+<location>6.1</location>
+<description>Outside Shade of 2nd TE</description>
+</LU_defensive-technique>
+<LU_defensive-technique>
+<id>7</id>
+<abrev>06</abrev>
+<pff-technique>8</pff-technique>
+<side>L</side>
+<location>6</location>
+<description>Head up on 2nd TE</description>
+</LU_defensive-technique>
+<LU_defensive-technique>
+<id>8</id>
+<abrev>07</abrev>
+<pff-technique>8i</pff-technique>
+<side>L</side>
+<location>5.9</location>
+<description>Inside shade of 2nd TE</description>
+</LU_defensive-technique>
+<LU_defensive-technique>
+<id>9</id>
+<abrev>08</abrev>
+<pff-technique>D</pff-technique>
+<side>L</side>
+<location>5.25</location>
+<description>D-Gap; gap between TE 1-2</description>
+</LU_defensive-technique>
+<LU_defensive-technique>
+<id>10</id>
+<abrev>09</abrev>
+<pff-technique>7</pff-technique>
+<side>L</side>
+<location>4.6</location>
+<description>Outside Shade of 1st TE</description>
+</LU_defensive-technique>
+<LU_defensive-technique>
+<id>11</id>
+<abrev>10</abrev>
+<pff-technique>6</pff-technique>
+<side>L</side>
+<location>4.5</location>
+<description>Head up on 1st TE</description>
+</LU_defensive-technique>
+<LU_defensive-technique>
+<id>12</id>
+<abrev>11</abrev>
+<pff-technique>6i</pff-technique>
+<side>L</side>
+<location>4.4</location>
+<description>Inside shade of 1st TE</description>
+</LU_defensive-technique>
+<LU_defensive-technique>
+<id>13</id>
+<abrev>12</abrev>
+<pff-technique>C</pff-technique>
+<side>L</side>
+<location>3.75</location>
+<description>C-Gap; Gap between RT-TE1</description>
+</LU_defensive-technique>
+<LU_defensive-technique>
+<id>14</id>
+<abrev>13</abrev>
+<pff-technique>5</pff-technique>
+<side>L</side>
+<location>3.1</location>
+<description>Outside Shade of RT</description>
+</LU_defensive-technique>
+<LU_defensive-technique>
+<id>15</id>
+<abrev>14</abrev>
+<pff-technique>4</pff-technique>
+<side>L</side>
+<location>3</location>
+<description>Head up on RT</description>
+</LU_defensive-technique>
+<LU_defensive-technique>
+<id>16</id>
+<abrev>15</abrev>
+<pff-technique>4i</pff-technique>
+<side>L</side>
+<location>2.9</location>
+<description>Inside shade of RT</description>
+</LU_defensive-technique>
+<LU_defensive-technique>
+<id>17</id>
+<abrev>16</abrev>
+<pff-technique>B</pff-technique>
+<side>L</side>
+<location>2.25</location>
+<description>B-Gap; Gap between RG-RT</description>
+</LU_defensive-technique>
+<LU_defensive-technique>
+<id>18</id>
+<abrev>17</abrev>
+<pff-technique>3</pff-technique>
+<side>L</side>
+<location>1.6</location>
+<description>Outside Shade of RG</description>
+</LU_defensive-technique>
+<LU_defensive-technique>
+<id>19</id>
+<abrev>18</abrev>
+<pff-technique>2</pff-technique>
+<side>L</side>
+<location>1.5</location>
+<description>Head up on RG</description>
+</LU_defensive-technique>
+<LU_defensive-technique>
+<id>20</id>
+<abrev>19</abrev>
+<pff-technique>2i</pff-technique>
+<side>L</side>
+<location>1.4</location>
+<description>Inside shade of RG</description>
+</LU_defensive-technique>
+<LU_defensive-technique>
+<id>21</id>
+<abrev>20</abrev>
+<pff-technique>A</pff-technique>
+<side>L</side>
+<location>0.75</location>
+<description>A-Gap; Gap between C-RG</description>
+</LU_defensive-technique>
+<LU_defensive-technique>
+<id>22</id>
+<abrev>21</abrev>
+<pff-technique>1</pff-technique>
+<side>L</side>
+<location>0.1</location>
+<description>Outside Shade of C</description>
+</LU_defensive-technique>
+<LU_defensive-technique>
+<id>23</id>
+<abrev>22</abrev>
+<pff-technique>0</pff-technique>
+<side>C</side>
+<location>0</location>
+<description>Head up on C</description>
+</LU_defensive-technique>
+<LU_defensive-technique>
+<id>24</id>
+<abrev>23</abrev>
+<pff-technique>1</pff-technique>
+<side>R</side>
+<location>-0.1</location>
+<description>Outside Shade of C</description>
+</LU_defensive-technique>
+<LU_defensive-technique>
+<id>25</id>
+<abrev>24</abrev>
+<pff-technique>A</pff-technique>
+<side>R</side>
+<location>-0.75</location>
+<description>A-Gap; Gap between C-LG</description>
+</LU_defensive-technique>
+<LU_defensive-technique>
+<id>26</id>
+<abrev>25</abrev>
+<pff-technique>2i</pff-technique>
+<side>R</side>
+<location>-1.4</location>
+<description>Inside shade of LG</description>
+</LU_defensive-technique>
+<LU_defensive-technique>
+<id>27</id>
+<abrev>26</abrev>
+<pff-technique>2</pff-technique>
+<side>R</side>
+<location>-1.5</location>
+<description>Head up on LG</description>
+</LU_defensive-technique>
+<LU_defensive-technique>
+<id>28</id>
+<abrev>27</abrev>
+<pff-technique>3</pff-technique>
+<side>R</side>
+<location>-1.6</location>
+<description>Outside Shade of LG</description>
+</LU_defensive-technique>
+<LU_defensive-technique>
+<id>29</id>
+<abrev>28</abrev>
+<pff-technique>B</pff-technique>
+<side>R</side>
+<location>-2.25</location>
+<description>B-Gap; Gap between LG-LT</description>
+</LU_defensive-technique>
+<LU_defensive-technique>
+<id>30</id>
+<abrev>29</abrev>
+<pff-technique>4i</pff-technique>
+<side>R</side>
+<location>-2.9</location>
+<description>Inside shade of LT</description>
+</LU_defensive-technique>
+<LU_defensive-technique>
+<id>31</id>
+<abrev>30</abrev>
+<pff-technique>4</pff-technique>
+<side>R</side>
+<location>-3</location>
+<description>Head up on LT</description>
+</LU_defensive-technique>
+<LU_defensive-technique>
+<id>32</id>
+<abrev>31</abrev>
+<pff-technique>5</pff-technique>
+<side>R</side>
+<location>-3.1</location>
+<description>Outside Shade of LT</description>
+</LU_defensive-technique>
+<LU_defensive-technique>
+<id>33</id>
+<abrev>32</abrev>
+<pff-technique>C</pff-technique>
+<side>R</side>
+<location>-3.75</location>
+<description>C-Gap; Gap between LT-TE1</description>
+</LU_defensive-technique>
+<LU_defensive-technique>
+<id>34</id>
+<abrev>33</abrev>
+<pff-technique>6i</pff-technique>
+<side>R</side>
+<location>-4.4</location>
+<description>Inside shade of 1st TE</description>
+</LU_defensive-technique>
+<LU_defensive-technique>
+<id>35</id>
+<abrev>34</abrev>
+<pff-technique>6</pff-technique>
+<side>R</side>
+<location>-4.5</location>
+<description>Head up on 1st TE</description>
+</LU_defensive-technique>
+<LU_defensive-technique>
+<id>36</id>
+<abrev>35</abrev>
+<pff-technique>7</pff-technique>
+<side>R</side>
+<location>-4.6</location>
+<description>Outside Shade of 1st TE</description>
+</LU_defensive-technique>
+<LU_defensive-technique>
+<id>37</id>
+<abrev>36</abrev>
+<pff-technique>D</pff-technique>
+<side>R</side>
+<location>-5.25</location>
+<description>D-Gap; gap between TE 1-2</description>
+</LU_defensive-technique>
+<LU_defensive-technique>
+<id>38</id>
+<abrev>37</abrev>
+<pff-technique>8i</pff-technique>
+<side>R</side>
+<location>-5.9</location>
+<description>Inside shade of 2nd TE</description>
+</LU_defensive-technique>
+<LU_defensive-technique>
+<id>39</id>
+<abrev>38</abrev>
+<pff-technique>8</pff-technique>
+<side>R</side>
+<location>-6</location>
+<description>Head up on 2nd TE</description>
+</LU_defensive-technique>
+<LU_defensive-technique>
+<id>40</id>
+<abrev>39</abrev>
+<pff-technique>8o</pff-technique>
+<side>R</side>
+<location>-6.1</location>
+<description>Outside Shade of 2nd TE</description>
+</LU_defensive-technique>
+<LU_defensive-technique>
+<id>41</id>
+<abrev>40</abrev>
+<pff-technique>E</pff-technique>
+<side>R</side>
+<location>-6.75</location>
+<description>E-Gap; gap between TE 2-3</description>
+</LU_defensive-technique>
+<LU_defensive-technique>
+<id>42</id>
+<abrev>41</abrev>
+<pff-technique>Yi</pff-technique>
+<side>R</side>
+<location>-7.4</location>
+<description>Inside shade of 3rd TE</description>
+</LU_defensive-technique>
+<LU_defensive-technique>
+<id>43</id>
+<abrev>42</abrev>
+<pff-technique>Y</pff-technique>
+<side>R</side>
+<location>-7.5</location>
+<description>Head up on 3rd TE</description>
+</LU_defensive-technique>
+<LU_defensive-technique>
+<id>44</id>
+<abrev>43</abrev>
+<pff-technique>Yo</pff-technique>
+<side>R</side>
+<location>-7.6</location>
+<description>Outside Shade of 3rd TE</description>
+</LU_defensive-technique>
+<LU_defensive-technique>
+<id>45</id>
+<abrev>44</abrev>
+<pff-technique>9</pff-technique>
+<side>R</side>
+<location>-8</location>
+<description>Wide of the ELOS</description>
+</LU_defensive-technique>
+</dataroot>

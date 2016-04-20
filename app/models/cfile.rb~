@@ -66,8 +66,10 @@ class Cfile
     tb_analysis.xpath("//" + ANALYSIS[0]).each do |node|
       node.name = ANALYSIS[1]
     end
-    tb_analysis.xpath("//id").each do |node|
-      node.remove
+    if @CFF
+      tb_analysis.xpath("//id").each do |node|
+        node.remove
+      end
     end
 
     File.write(ANALYSIS[2], tb_analysis.to_xml)

@@ -1,0 +1,6 @@
+class TestController < ApplicationController
+
+  def sample
+  end
+
+end
